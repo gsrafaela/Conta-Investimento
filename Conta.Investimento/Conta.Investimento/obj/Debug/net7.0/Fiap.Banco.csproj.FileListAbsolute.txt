@@ -1,0 +1,15 @@
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/bin/Debug/net7.0/Fiap.Banco
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/bin/Debug/net7.0/Fiap.Banco.deps.json
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/bin/Debug/net7.0/Fiap.Banco.runtimeconfig.json
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/bin/Debug/net7.0/Fiap.Banco.dll
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/bin/Debug/net7.0/Fiap.Banco.pdb
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.csproj.AssemblyReference.cache
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.AssemblyInfoInputs.cache
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.AssemblyInfo.cs
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.csproj.CoreCompileInputs.cache
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.dll
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/refint/Fiap.Banco.dll
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.pdb
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/Fiap.Banco.genruntimeconfig.cache
+/Users/rafaelagomes/Projects/Conta.Investimento/Conta.Investimento/obj/Debug/net7.0/ref/Fiap.Banco.dll
